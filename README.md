@@ -1,2 +1,14 @@
-# Indinova-store
-IndyNova Store एक तेज़, सुरक्षित और आसान App &amp; Game Upload Platform है जहाँ कोई भी अपनी गेम या ऐप को फ्री में अपलोड कर सकता है। यह Play Store जैसा सुंदर इंटरफ़ेस, हाई-स्पीड डाउनलोड, एड-आधारित कमाई और सुरक्षित सर्वर प्रदान करता है। एक महीना फ्री, बाद में प्रीमियम अपलोड फीचर्स भी उपलब्ध हैं।
+# IndyNova Store — Enhanced Version
+यह पूरी तरह अपग्रेड किया हुआ प्रोजेक्ट है।
+GitHub पर अपलोड करने के लिए तैयार।
+
+Features:
+- Home page
+- App list + categories
+- Upload page
+- Login / Signup UI
+- Developer dashboard
+- Admin panel UI
+- Ads placeholders
+- Dark mode support
+- Responsive UI
